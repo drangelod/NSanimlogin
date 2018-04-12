@@ -8,7 +8,7 @@
 android {  
   defaultConfig {  
     generatedDensities = []
-    applicationId = "org.nativescript.splashlogin" 
+    applicationId = "com.angelengineering.animlogin" 
     
     //override supported platforms
     // ndk {

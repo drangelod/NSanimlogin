@@ -5,11 +5,11 @@
 	"repository": "https://github.com/drangelod/NSanimlogin.git",
 	"nativescript": {
 		"id": "com.angelengineering.animlogin",
-		"tns-android": {
-			"version": "3.4.2"
-		},
 		"tns-ios": {
 			"version": "3.4.1"
+		},
+		"tns-android": {
+			"version": "3.4.2"
 		}
 	},
 	"dependencies": {
